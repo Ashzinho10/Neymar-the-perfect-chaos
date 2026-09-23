@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Cristiano Ronaldo</title>
+</head>
+<body>
+
+    <h1>Cristiano Ronaldo</h1>
+
+    <p>Welcome to my webpage about Cristiano Ronaldo.</p>
+
+    <h2>About Him</h2>
+    <p>
+        Cristiano Ronaldo is a famous Portuguese football player.
+        He is known for his goal-scoring ability, speed, and fitness.
+    </p>
+
+    <h2>Achievements</h2>
+    <ul>
+        <li>Multiple Ballon d'Or awards</li>
+        <li>UEFA Champions League titles</li>
+        <li>European Championship winner</li>
+    </ul>
+
+    <h2>Famous Quote</h2>
+    <p>"Talent without working hard is nothing."</p>
+
+</body>
+</html>
